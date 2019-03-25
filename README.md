@@ -3,7 +3,7 @@
 ### Ports
 
 Application | Ports | Description
- --- | --- 
+ --- | --- | ---
  `currency-exchange` | **8000,8001...8099** | Java based application
  `currency-conversion` | **8100,8101...8199** | Core of the microservices process
  `limits-service` | **8888** | Service used to trigger properties
