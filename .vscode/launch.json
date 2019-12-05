@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LimitsServiceApplication",
+            "request": "launch",
+            "mainClass": "com.microservices.limitsservice.LimitsServiceApplication",
+            "projectName": "limits-service"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringCloudConfigServerApplication",
+            "request": "launch",
+            "mainClass": "com.microservices.springcloudconfigserver.SpringCloudConfigServerApplication",
+            "projectName": "spring-cloud-config-server"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NetflixEurekaNamingServerApplication",
+            "request": "launch",
+            "mainClass": "com.microservices.netflixeurekanamingserver.NetflixEurekaNamingServerApplication",
+            "projectName": "netflix-eureka-naming-server"
+        }
+    ]
+}
